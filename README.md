@@ -1,2 +1,2 @@
 # Demo
-This is just a simple demo.
+## This is just a simple demo.
